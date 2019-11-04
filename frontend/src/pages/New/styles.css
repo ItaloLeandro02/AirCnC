@@ -12,8 +12,3 @@ label#thumbnail {
 label#thumbnail input {
     display: none;
 }
-
-teste {
-    display: block;
-    additive-symbols: cross-fade();
-}
